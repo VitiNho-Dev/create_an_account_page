@@ -6,5 +6,5 @@ Um projeto para treinar Layout Web com componentização, configuração de tema
 Imagem da tela que irei fazer:
 
 <div align="center">
-    <img src="https://github.com/VitiNho-Dev/create_an_account_page/blob/main/assets/ui_image.jpg" alt="Ui" width="180">
+    <img src="https://github.com/VitiNho-Dev/create_an_account_page/blob/main/assets/ui_image.jpg" alt="Ui" width="400">
 </div> 
