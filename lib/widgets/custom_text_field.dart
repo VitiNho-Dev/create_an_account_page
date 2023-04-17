@@ -12,7 +12,7 @@ class CustomTextField extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return TextField(
+    return TextFormField(
       decoration: InputDecoration(
         hintStyle: CustomTextTheme.hintText,
         hintText: text,
